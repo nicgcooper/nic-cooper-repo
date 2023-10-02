@@ -1,0 +1,52 @@
+MUMT301-2021 Assignment 1
+QUESTIONNAIRE!
+
+The following questionnaire seeks to understand your previous knowledge about some of the concepts that we will learn in class during the coming term.
+
+1. Do you know any programming languages? If you do, which ones?
+
+I used pure data a lot for a previous class. I'm beginning to learn python in COMP 202.
+
+2. What is your primary computer operating system (OS)?
+
+I'm using a mac computer for school work
+
+3. Do you own a smartphone, tablet, or mobile device? What is your favourite OS for mobile devices?
+
+I use an Iphone. 
+
+4. Do you use any social networking services? If you do, which ones? Why?
+
+I don't use social media to often, but I enjoy watching youtube videos and instagram reels even though I probably shouldn't 
+
+5. Expand the following acronyms and do research about their meaning. You may look them up if you don't know:
+
+    HTTP
+    REST    
+    API
+
+6. Do you play a musical instrument or sing? If so, how much experience do you have?
+
+I play the cello. I was in the performance program for cello before so I have a fair amount of experience. Otherwise, I can play electric bass and I'm gonna try to learn guitar.
+
+7. Can you read music notation? If so, how well?
+
+I'm very proficient at reading music notation because of my background in classical music
+
+8. How large is your personal music collection? Estimate the number of artists, albums, and songs. If instead you listen to music using streaming services, how many playlists, artists, albums, and songs do you have in your account?
+
+I started my vinyl collection about a year ago, I have about 6 albums so far. I mostly listen to music on streaming, I must have about 200-300 different artists added. I dont have any playlists, I 
+listen mostly to albums. I must have like 500-600 albums and like 7000 songs.
+
+9. How do you search and find new music? How do you think this affects the types of artists that you end up listening to?
+
+I use rate your music a lot, I really like their system to chart albums by user ranking. Over a year ago, I listened to one year of music per week, starting in 1965, and I used rate your music a lot 
+for this. One thing I noticed is that there seems to be a bias in the rankings that favors men in the charts. Knowing this I try my best to add women into my listenings as well.
+
+10. Name two musical artists that you like. What do you find interesting about their music that makes you like them?
+
+Nick drake 
+
+Other than his wispy voice and his thought provoking lyrics, his guitar work is what really stands out to me whenever I listen to albums like pink moon. He is able to fill the audible range with 
+melodic lines that, with his masterful finger picking, 
+
